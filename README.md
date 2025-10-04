@@ -1,7 +1,7 @@
 # Programming_Assignment1_Muzammilkhon
 
 
-
+**Explained variance: PC1 ≈ 55.41%, PC2 ≈ 12.72% (total ≈ 68.13%); visually separable classes: 0.**
 
 ## Datasets
 
@@ -27,3 +27,4 @@
 * Print dimensionality of both representations `(N, D)`.
 * Choose 4 classes, run PCA→2D for Count and for TF-IDF (two separate plots).
 * Short note on which classes (if any) are visually separable on **both** plots.
+**Explained variance: PC1 ≈ 55.41%, PC2 ≈ 12.72% (total ≈ 68.13%); visually separable classes: 0.**
